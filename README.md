@@ -34,6 +34,7 @@ Vancouver Whalers
 Washington Monuments
 
 RULES
+
 One week of league play will be emulated every workday at 11:00am.
 
 All trades must be agreed upon by 10:55am in order to take effect.
