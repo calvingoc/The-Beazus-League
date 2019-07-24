@@ -34,6 +34,7 @@ Vancouver Whalers<br/>
 Washington Monuments<br/>
 
 RULES
+Each team will be given a custom player 19 yo player named at the request of the GM, at the position chosen by the GM with average stats with a ten point boost in five categories of the GM's choice.
 
 One week of league play will be emulated every workday at 11:00am.
 
