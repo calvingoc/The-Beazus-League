@@ -3,35 +3,35 @@ The home of the Beazus League and the quest to win the Ankle Watch Trophy
 
 Pick your team
 
-Atlanta Gold Club
-Baltimore Crabs
-Boston Massacre
-Chicago Whirlwinds
-Cincinnati Riots
-Cleveland Curses
-Dallas Snipers
-Denver High
-Detroit Muscle
-Houston Apollos
-Las Vegas Blue Chips
-Los Angeles Earthquakes
-Mexico City Aztecs
-Miami Cyclones
-Montreal Mounties
-New York Bankers
-Philadelphia Cheesesteaks
-Phoenix Vultures
-Pittsburgh Rivers
-Portland Roses
-Sacramento Gold Rush
-San Diego Pandas
-San Francisco Venture Capitalists
-Seattle Symphony
-St. Louis Spirits
-Tampa Turtles
-Toronto Beavers
-Vancouver Whalers
-Washington Monuments
+Atlanta Gold Club<br/>
+Baltimore Crabs<br/>
+Boston Massacre<br/>
+Chicago Whirlwinds<br/>
+Cincinnati Riots<br/>
+Cleveland Curses<br/>
+Dallas Snipers<br/>
+Denver High<br/>
+Detroit Muscle<br/>
+Houston Apollos<br/>
+Las Vegas Blue Chips<br/>
+Los Angeles Earthquakes<br/>
+Mexico City Aztecs<br/>
+Miami Cyclones<br/>
+Montreal Mounties<br/>
+New York Bankers<br/>
+Philadelphia Cheesesteaks<br/>
+Phoenix Vultures<br/>
+Pittsburgh Rivers<br/>
+Portland Roses<br/>
+Sacramento Gold Rush<br/>
+San Diego Pandas<br/>
+San Francisco Venture Capitalists<br/>
+Seattle Symphony<br/>
+St. Louis Spirits<br/>
+Tampa Turtles<br/>
+Toronto Beavers<br/>
+Vancouver Whalers<br/>
+Washington Monuments<br/>
 
 RULES
 
