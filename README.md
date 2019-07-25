@@ -46,7 +46,8 @@ One week of league play will be emulated every workday at 11:00am.</br>
 
 ### Playoffs: </br>
 
-One day of playoffs play will be emulated every workday at 11:00am. </br>
+One round of playoffs play will be emulated every workday starting at 11:00am. An issue will be opened for the entirety of the playoffs. Each day will be individually emulated and results will be posted in the issue. Every GM of a team that is still playing will have the chance to make moves before the next day is emulated. The round will be completed before 10:30am the next day regardless of if GMs have had reviewed resutls.</br>
+
 
 ### Off Season: </br>
 
@@ -54,7 +55,7 @@ Unless requested by a GM each step of the off season will be emulated every work
 
 ### Exceptions: </br>
 If a GM needs more graunlar time steps an issue must be opened before 10:55am with the requested interval for it to take effect. </br> 
-*Daily steps will be honored  but
+*Daily steps will be honored but not if strung togeather excessively*
 
 ## Roster Moves: </br>
 
