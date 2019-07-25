@@ -1,5 +1,6 @@
 # Looks Like I'm Working League
-The home of the Looks Like I'm Working League
+The home of the Looks Like I'm Working League </br>
+Emulated with [baseball.zengm.com](http://baseball.zengm.com/) </br>
 
 Pick your team
 
@@ -46,7 +47,7 @@ One week of league play will be emulated every workday at 11:00am.</br>
 
 ### Playoffs: </br>
 
-One round of playoffs play will be emulated every workday starting at 11:00am. An issue will be opened for the entirety of the playoffs. Each day will be individually emulated and results will be posted in the issue. Every GM of a team that is still playing will have the chance to make moves before the next day is emulated. The round will be completed before 10:30am the next day regardless of if GMs have had reviewed resutls.</br>
+One round of playoffs play will be emulated every workday starting at 11:00am. An issue will be opened for the entirety of the playoffs. Each day will be individually emulated and results will be posted in the issue. Every GM of a team that is still playing will have the chance to make moves before the next day is emulated. The round will be completed before 10:30am the next day regardless of if GMs have had reviewed results.</br>
 
 
 ### Off Season: </br>
