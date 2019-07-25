@@ -33,19 +33,27 @@ Toronto Beavers<br/>
 Vancouver Whalers<br/>
 Washington Monuments<br/>
 
-RULES
-Each team will be given a custom player 19 yo player named at the request of the GM, at the position chosen by the GM with average stats with a ten point boost in five categories of the GM's choice.
+# RULES <br/><br/>
 
-One week of league play will be emulated every workday at 11:00am.
+# Selecting a Team: </br>
+You will officially be the GM of a team when you name appears next to it in the above list. </br>
+Each team will be given a custom 19 yo player named at the request of the GM, at the position chosen by the GM with average stats with a ten point boost in five categories of the GM's choice.
 
-All Roster moves must be submitted by 10:55am in order to take effect.
+# Timeline: </br>
 
-To submit a roster move open an issue.
+One week of league play will be emulated every workday at 11:00am.</br>
+
+All Roster moves must be submitted by 10:55am in order to take effect.</br>
+
+# Roster Moves: </br>
+
+To submit a roster move open an issue.</br>
 
 To request a trade open an issue, to agree on a trade both GMs must post an agreement stating what they are giving up and receiving.
-To complete a trade with an AI team all other GMs must ok the trade.
+To complete a trade with an AI team all other GMs must ok the trade.</br>
 
-To sign a FA you must open an issue with the name of the FA and the contract details, how much for how long. If another player would like to sign that FA they can put in a bid on the player in that same issue. The player who has offered the most money (years X salary) by the 10:55am deadline will get to sign the FA.
+
+To sign a FA a GM must open an issue with the name of the FA and the contract details, how much for how long. If another GM would like to sign that FA they can put in a bid on the player in that same issue. The GM who has offered the most money (years X salary) by the 10:55am deadline will get to sign the FA.
 
 
 
