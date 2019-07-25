@@ -45,7 +45,7 @@ To submit a roster move open an issue.
 To request a trade open an issue, to agree on a trade both GMs must post an agreement stating what they are giving up and receiving.
 To complete a trade with an AI team all other GMs must ok the trade.
 
-To sign a FA you must open an issue with the name of the FA and the contract details, how much for how long. If another player would like to sign that FA they can put in a bid on the player in that same issue. The player who has offered the most money (years X salary) by the 10:55am deadline will get to sign the player.
+To sign a FA you must open an issue with the name of the FA and the contract details, how much for how long. If another player would like to sign that FA they can put in a bid on the player in that same issue. The player who has offered the most money (years X salary) by the 10:55am deadline will get to sign the FA.
 
 
 
