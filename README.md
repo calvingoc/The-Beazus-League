@@ -35,17 +35,30 @@ Washington Monuments<br/>
 
 # RULES <br/><br/>
 
-# Selecting a Team: </br>
+## Selecting a Team: </br>
 You will officially be the GM of a team when you name appears next to it in the above list. </br>
 Each team will be given a custom 19 yo player named at the request of the GM, at the position chosen by the GM with average stats with a ten point boost in five categories of the GM's choice.
 
-# Timeline: </br>
+## Timeline: </br>
+### Regular Season: </br>
 
 One week of league play will be emulated every workday at 11:00am.</br>
 
-All Roster moves must be submitted by 10:55am in order to take effect.</br>
+### Playoffs: </br>
 
-# Roster Moves: </br>
+One day of playoffs play will be emulated every workday at 11:00am. </br>
+
+### Off Season: </br>
+
+Unless requested by a GM each step of the off season will be emulated every workday at 11:00am. </br>
+
+### Exceptions: </br>
+If a GM needs more graunlar time steps an issue must be opened before 10:55am with the requested interval for it to take effect. </br> 
+*Daily steps will be honored  but
+
+## Roster Moves: </br>
+
+All Roster moves must be submitted by 10:55am in order to take effect.</br>
 
 To submit a roster move open an issue.</br>
 
