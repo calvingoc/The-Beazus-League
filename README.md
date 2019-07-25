@@ -1,4 +1,4 @@
-# The-Beazus-League
+# Looks Like I'm Working League
 The home of the Looks Like I'm Working League
 
 Pick your team
