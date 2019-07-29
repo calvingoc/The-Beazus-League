@@ -1,6 +1,7 @@
 # Looks Like I'm Working League
 The home of the Looks Like I'm Working League </br>
 Emulated with [baseball.zengm.com](http://baseball.zengm.com/) </br>
+Or if we do [Basketball](https://play.basketball-gm.com/)</br>
 
 Pick your team
 
