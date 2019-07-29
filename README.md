@@ -22,7 +22,7 @@ Miami Cyclones<br/>
 Minneapolis Blizzards<br/>
 Montreal Mounties<br/>
 New York Bankers<br/>
-# Philadelphia Cheesesteaks Nick<br/>
+<b>Philadelphia Cheesesteaks Nick</b><br/>
 Phoenix Vultures<br/>
 Pittsburgh Rivers<br/>
 Portland Roses<br/>
