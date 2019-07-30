@@ -563,11 +563,11 @@
         },
         "scouting": {
           "amount": 21570,
-          "rank": 4
+          "rank": 5
         },
         "coaching": {
           "amount": 21570,
-          "rank": 4
+          "rank": 5
         },
         "health": {
           "amount": 21570,
@@ -1084,11 +1084,11 @@
         },
         "health": {
           "amount": 20330,
-          "rank": 8
+          "rank": 7
         },
         "facilities": {
           "amount": 20330,
-          "rank": 8
+          "rank": 7
         }
       },
       "strategy": "rebuilding",
@@ -1597,11 +1597,11 @@
         },
         "health": {
           "amount": 20020,
-          "rank": 9
+          "rank": 8
         },
         "facilities": {
           "amount": 20020,
-          "rank": 9
+          "rank": 8
         }
       },
       "strategy": "contending",
@@ -1931,11 +1931,11 @@
         },
         "scouting": {
           "amount": 21880,
-          "rank": 3
+          "rank": 4
         },
         "coaching": {
           "amount": 21880,
-          "rank": 3
+          "rank": 4
         },
         "health": {
           "amount": 21880,
@@ -2102,11 +2102,11 @@
         },
         "scouting": {
           "amount": 22500,
-          "rank": 1
+          "rank": 2
         },
         "coaching": {
           "amount": 22500,
-          "rank": 1
+          "rank": 2
         },
         "health": {
           "amount": 22500,
@@ -2269,15 +2269,15 @@
       "budget": {
         "ticketPrice": {
           "amount": 57.69,
-          "rank": 6
+          "rank": 7
         },
         "scouting": {
           "amount": 20950,
-          "rank": 6
+          "rank": 7
         },
         "coaching": {
           "amount": 20950,
-          "rank": 6
+          "rank": 7
         },
         "health": {
           "amount": 20950,
@@ -2786,11 +2786,11 @@
         },
         "scouting": {
           "amount": 22190,
-          "rank": 2
+          "rank": 3
         },
         "coaching": {
           "amount": 22190,
-          "rank": 2
+          "rank": 3
         },
         "health": {
           "amount": 22190,
@@ -2946,30 +2946,30 @@
       "tid": 17,
       "cid": 0,
       "did": 0,
-      "region": "Philadelphia",
+      "region": "K&B",
       "name": "Cheesesteaks",
-      "abbrev": "PHI",
+      "abbrev": "K&B",
       "imgURL": "/img/logos/PHI.png",
       "budget": {
         "ticketPrice": {
-          "amount": 56.83,
-          "rank": 7
+          "amount": 58,
+          "rank": 6
         },
         "scouting": {
-          "amount": 20640,
-          "rank": 7
+          "amount": 23000,
+          "rank": 1
         },
         "coaching": {
-          "amount": 20640,
-          "rank": 7
+          "amount": 23000,
+          "rank": 1
         },
         "health": {
-          "amount": 20640,
-          "rank": 7
+          "amount": 20000,
+          "rank": 9
         },
         "facilities": {
-          "amount": 20640,
-          "rank": 7
+          "amount": 20000,
+          "rank": 9
         }
       },
       "strategy": "rebuilding",
@@ -3000,8 +3000,8 @@
           "streak": 0,
           "playoffRoundsWon": -1,
           "hype": 0.2771026615164276,
-          "pop": 5.4,
-          "stadiumCapacity": 25000,
+          "pop": 0.001,
+          "stadiumCapacity": 1000,
           "revenues": {
             "luxuryTaxShare": {
               "amount": 0,
@@ -3118,7 +3118,7 @@
       "cid": 1,
       "did": 3,
       "region": "Phoenix",
-      "name": "Vultures",
+      "name": "Bums",
       "abbrev": "PHO",
       "imgURL": "/img/logos/PHO.png",
       "budget": {
@@ -3802,7 +3802,7 @@
       "cid": 1,
       "did": 5,
       "region": "San Diego",
-      "name": "Pandas",
+      "name": "Swamp Dragons",
       "abbrev": "SD",
       "imgURL": "/img/logos/SD.png",
       "budget": {
@@ -4667,11 +4667,11 @@
         },
         "scouting": {
           "amount": 21260,
-          "rank": 5
+          "rank": 6
         },
         "coaching": {
           "amount": 21260,
-          "rank": 5
+          "rank": 6
         },
         "health": {
           "amount": 21260,
@@ -5394,12 +5394,12 @@
     },
     {
       "key": "userTid",
-      "value": 22
+      "value": 17
     },
     {
       "key": "userTids",
       "value": [
-        22
+        17
       ]
     }
   ],
@@ -18153,7 +18153,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 7,
+      "rosterOrder": 8,
       "salaries": [
         {
           "season": 2019,
@@ -29329,7 +29329,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 9,
+      "rosterOrder": 10,
       "salaries": [
         {
           "season": 2019,
@@ -31049,7 +31049,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 12,
+      "rosterOrder": 13,
       "salaries": [
         {
           "season": 2019,
@@ -39836,7 +39836,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 4,
+      "rosterOrder": 5,
       "salaries": [
         {
           "season": 2019,
@@ -52377,7 +52377,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 5,
+      "rosterOrder": 6,
       "salaries": [
         {
           "season": 2019,
@@ -56087,7 +56087,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 6,
+      "rosterOrder": 7,
       "salaries": [
         {
           "season": 2019,
@@ -63263,7 +63263,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 8,
+      "rosterOrder": 9,
       "salaries": [
         {
           "season": 2019,
@@ -71239,7 +71239,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 11,
+      "rosterOrder": 12,
       "salaries": [
         {
           "season": 2019,
@@ -73394,7 +73394,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 10,
+      "rosterOrder": 11,
       "salaries": [
         {
           "season": 2019,
@@ -149660,7 +149660,7 @@
       "gamesUntilTradable": 0,
       "hgt": 84,
       "hof": false,
-      "imgURL": "",
+      "imgURL": "https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2019/05/godzilla-2000.png?ssl=1",
       "injury": {
         "type": "Healthy",
         "gamesRemaining": 0
@@ -149683,12 +149683,12 @@
           "diq": 60,
           "drb": 50,
           "pss": 50,
-          "reb": 50,
+          "reb": 60,
           "hgt": 60,
           "fuzz": -0.6305177698634639,
-          "ovr": 58,
+          "ovr": 59,
           "pos": "C",
-          "pot": 78,
+          "pot": 79,
           "season": 2019,
           "skills": [
             "Di"
@@ -149696,7 +149696,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 666,
+      "rosterOrder": 4,
       "salaries": [],
       "stats": [
         {
@@ -149751,11 +149751,11 @@
       "watch": false,
       "weight": 200,
       "yearsFreeAgent": 0,
-      "value": 74,
-      "valueNoPot": 58,
-      "valueFuzz": 74,
-      "valueNoPotFuzz": 58,
-      "valueWithContract": 74,
+      "value": 75,
+      "valueNoPot": 59,
+      "valueFuzz": 75,
+      "valueNoPotFuzz": 59,
+      "valueWithContract": 75,
       "pos": "C",
       "pid": 751
     },
