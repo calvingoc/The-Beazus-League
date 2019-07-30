@@ -22,11 +22,11 @@ Miami Cyclones<br/>
 Minneapolis Blizzards<br/>
 Montreal Mounties<br/>
 New York Bankers<br/>
-<b>Philadelphia Cheesesteaks Nick</b><br/>
+<b>Philadelphia Cheesesteaks - Nick</b><br/>
 Phoenix Vultures<br/>
 Pittsburgh Rivers<br/>
 Portland Roses<br/>
-San Diego Pandas<br/>
+<b>San Diego Pandas - Calvin </b><br/>
 San Francisco Venture Capitalists<br/>
 Seattle Symphony<br/>
 St. Louis Spirits<br/>
