@@ -1,12 +1,11 @@
 # Looks Like I'm Working League
 The home of the Looks Like I'm Working League </br>
-Emulated with [baseball.zengm.com](http://baseball.zengm.com/) </br>
-Or if we do [Basketball](https://play.basketball-gm.com/)</br>
+Emulated here:[Basketball](https://play.basketball-gm.com/)</br>
 
 Pick your team
 
 Atlanta Gold Club<br/>
-Baltimore Crabs<br/>
+<b>Baltimore Crabs - Mike</b><br/>
 Boston Massacre<br/>
 Chicago Whirlwinds<br/>
 Cincinnati Riots<br/>
@@ -22,11 +21,11 @@ Miami Cyclones<br/>
 Minneapolis Blizzards<br/>
 Montreal Mounties<br/>
 New York Bankers<br/>
-<b>Philadelphia Cheesesteaks - Nick</b><br/>
-Phoenix Vultures<br/>
+<b>K&B Cheesesteaks - Nick</b><br/>
+Phoenix Bums<br/>
 Pittsburgh Rivers<br/>
 Portland Roses<br/>
-<b>San Diego Pandas - Calvin </b><br/>
+<b>San Diego Swamp Dragons - Calvin </b><br/>
 San Francisco Venture Capitalists<br/>
 Seattle Symphony<br/>
 St. Louis Spirits<br/>
@@ -35,7 +34,17 @@ Toronto Beavers<br/>
 Vancouver Whalers<br/>
 Washington Monuments<br/>
 
+# HOW TO <br/>
+1. Get the latest copy of the league.json. </br>
+2. Go to the [game page](https://play.basketball-gm.com/)</br>
+3. Create new league. </br>
+4. In the customize dropbox pick "Upload League File" and give it the league.json from step 1.</br>
+
+See what the current state of the league is and feel free to make changes to your team and simulate time to make a strategy. Only rostor moves that are requested on time as issues will take effect in the real league. See Rostor Moves section below for instructions on how to submit changes.
+
 # RULES <br/><br/>
+
+
 
 ## Selecting a Team: </br>
 You will officially be the GM of a team when you name appears next to it in the above list. </br>
@@ -45,6 +54,8 @@ Each team will be given a custom 19 yo player named at the request of the GM, at
 ### Regular Season: </br>
 
 One week of league play will be emulated every workday at 11:00am.</br>
+
+Might change this to multiple weeks per workday with the results posted between each week so GMs have a chance to make changes after each week. <br/>
 
 ### Playoffs: </br>
 
