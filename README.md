@@ -18,7 +18,7 @@ Las Vegas Blue Chips<br/>
 Los Angeles Earthquakes<br/>
 Mexico City Aztecs<br/>
 Miami Cyclones<br/>
-Minneapolis Blizzards<br/>
+<b>Milwaukee Blizzards - Nemo </b><br/>
 Montreal Mounties<br/>
 New York Bankers<br/>
 <b>K&B Cheesesteaks - Nick</b><br/>
@@ -31,7 +31,7 @@ Seattle Symphony<br/>
 St. Louis Spirits<br/>
 Tampa Turtles<br/>
 Toronto Beavers<br/>
-Vancouver Whalers<br/>
+Minnesota Whalers<br/>
 Washington Monuments<br/>
 
 # HOW TO <br/>
