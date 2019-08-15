@@ -35,10 +35,10 @@ Minnesota Whalers<br/>
 Washington Monuments<br/>
 
 # HOW TO <br/>
-1. Get the latest copy of the league.json. </br>
+1. Get the latest copy of the league.json. Or copy URL to league.json file</br>
 2. Go to the [game page](https://play.basketball-gm.com/)</br>
 3. Create new league. </br>
-4. In the customize dropbox pick "Upload League File" and give it the league.json from step 1.</br>
+4. In the customize dropbox pick "Upload League File" and give it the league.json from step 1. Or Enter League file URL and pass it the URL from step 1.</br>
 
 See what the current state of the league is and feel free to make changes to your team and simulate time to make a strategy. Only rostor moves that are requested on time as issues will take effect in the real league. See Rostor Moves section below for instructions on how to submit changes.
 
