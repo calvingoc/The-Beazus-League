@@ -1,5 +1,5 @@
 # Looks Like I'm Working League
-The home of the Looks Like I'm Working League </br>
+The home of the Beazus League </br>
 Emulated here:[Basketball](https://play.basketball-gm.com/)</br>
 
 Pick your team
