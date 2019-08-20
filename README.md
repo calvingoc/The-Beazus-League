@@ -1,4 +1,4 @@
-# Looks Like I'm Working League
+# The Beazus League
 The home of the Beazus League </br>
 Emulated here:[Basketball](https://play.basketball-gm.com/)</br>
 
