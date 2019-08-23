@@ -79,7 +79,7 @@ To request a trade open an issue, to agree on a trade both GMs must post an agre
 To complete a trade with an AI team all other GMs must ok the trade.</br>
 
 
-To sign a FA a GM must open an issue with the name of the FA and the contract details, how much for how long. If another GM would like to sign that FA they can put in a bid on the player in that same issue. The GM who has offered the most money (years X salary) by the 10:55am deadline will get to sign the FA.
+To sign a FA a GM must open an issue with the name of the FA and the contract details, how much for how long. If another GM would like to sign that FA they can put in a bid on the player in that same issue. The GM who has offered the most money (years X salary) by the 10:55am deadline will get to sign the FA. If the same amount of money is offered by multiple teams the team with the worse record will get the player. 
 
 
 
