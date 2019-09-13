@@ -1,12 +1,11 @@
 ﻿{
   "version": 33,
   "meta": {
-    "phaseText": "2019 draft lottery",
+    "phaseText": "2019 draft",
     "name": "League 1"
   },
   "schedule": [],
   "negotiations": [],
-  "draftLotteryResults": [],
   "awards": [
     {
       "bestRecord": {
@@ -762,11 +761,131 @@
           "dpidsExcluded": []
         },
         {
-          "tid": 13,
+          "tid": 0,
           "pids": [],
           "pidsExcluded": [],
           "dpids": [],
           "dpidsExcluded": []
+        }
+      ]
+    }
+  ],
+  "draftLotteryResults": [
+    {
+      "season": 2019,
+      "draftType": "nba2019",
+      "result": [
+        {
+          "tid": 22,
+          "originalTid": 22,
+          "chances": 140,
+          "pick": 5,
+          "won": 19,
+          "lost": 63
+        },
+        {
+          "tid": 3,
+          "originalTid": 3,
+          "chances": 140,
+          "pick": 6,
+          "won": 27,
+          "lost": 55
+        },
+        {
+          "tid": 7,
+          "originalTid": 7,
+          "chances": 133,
+          "pick": 7,
+          "won": 28,
+          "lost": 54
+        },
+        {
+          "tid": 24,
+          "originalTid": 24,
+          "chances": 132,
+          "pick": 3,
+          "won": 28,
+          "lost": 54
+        },
+        {
+          "tid": 6,
+          "originalTid": 6,
+          "chances": 105,
+          "pick": 1,
+          "won": 29,
+          "lost": 53
+        },
+        {
+          "tid": 20,
+          "originalTid": 20,
+          "chances": 90,
+          "pick": 8,
+          "won": 31,
+          "lost": 51
+        },
+        {
+          "tid": 2,
+          "originalTid": 2,
+          "chances": 68,
+          "pick": 9,
+          "won": 32,
+          "lost": 50
+        },
+        {
+          "tid": 29,
+          "originalTid": 29,
+          "chances": 67,
+          "pick": 4,
+          "won": 32,
+          "lost": 50
+        },
+        {
+          "tid": 26,
+          "originalTid": 26,
+          "chances": 45,
+          "pick": 10,
+          "won": 34,
+          "lost": 48
+        },
+        {
+          "tid": 8,
+          "originalTid": 8,
+          "chances": 25,
+          "pick": 11,
+          "won": 35,
+          "lost": 47
+        },
+        {
+          "tid": 16,
+          "originalTid": 16,
+          "chances": 25,
+          "pick": 2,
+          "won": 35,
+          "lost": 47
+        },
+        {
+          "tid": 11,
+          "originalTid": 11,
+          "chances": 13,
+          "pick": 12,
+          "won": 37,
+          "lost": 45
+        },
+        {
+          "tid": 18,
+          "originalTid": 18,
+          "chances": 12,
+          "pick": 13,
+          "won": 37,
+          "lost": 45
+        },
+        {
+          "tid": 13,
+          "originalTid": 13,
+          "chances": 5,
+          "pick": 14,
+          "won": 39,
+          "lost": 43
         }
       ]
     }
@@ -8441,7 +8560,7 @@
     },
     {
       "key": "phase",
-      "value": 4
+      "value": 5
     },
     {
       "key": "playersRefuseToNegotiate",
@@ -8489,7 +8608,7 @@
     },
     {
       "key": "userTid",
-      "value": 14
+      "value": 22
     },
     {
       "key": "userTids",
@@ -8506,7 +8625,7 @@
       "tid": 0,
       "originalTid": 0,
       "round": 1,
-      "pick": 0,
+      "pick": 27,
       "season": 2019,
       "dpid": 0
     },
@@ -8514,7 +8633,7 @@
       "tid": 0,
       "originalTid": 0,
       "round": 2,
-      "pick": 0,
+      "pick": 27,
       "season": 2019,
       "dpid": 1
     },
@@ -8522,7 +8641,7 @@
       "tid": 1,
       "originalTid": 1,
       "round": 1,
-      "pick": 0,
+      "pick": 25,
       "season": 2019,
       "dpid": 2
     },
@@ -8530,7 +8649,7 @@
       "tid": 1,
       "originalTid": 1,
       "round": 2,
-      "pick": 0,
+      "pick": 25,
       "season": 2019,
       "dpid": 3
     },
@@ -8538,7 +8657,7 @@
       "tid": 2,
       "originalTid": 2,
       "round": 1,
-      "pick": 0,
+      "pick": 9,
       "season": 2019,
       "dpid": 4
     },
@@ -8546,7 +8665,7 @@
       "tid": 8,
       "originalTid": 2,
       "round": 2,
-      "pick": 0,
+      "pick": 7,
       "season": 2019,
       "dpid": 5
     },
@@ -8554,7 +8673,7 @@
       "tid": 3,
       "originalTid": 3,
       "round": 1,
-      "pick": 0,
+      "pick": 6,
       "season": 2019,
       "dpid": 6
     },
@@ -8562,7 +8681,7 @@
       "tid": 3,
       "originalTid": 3,
       "round": 2,
-      "pick": 0,
+      "pick": 2,
       "season": 2019,
       "dpid": 7
     },
@@ -8570,7 +8689,7 @@
       "tid": 4,
       "originalTid": 4,
       "round": 1,
-      "pick": 0,
+      "pick": 28,
       "season": 2019,
       "dpid": 8
     },
@@ -8578,7 +8697,7 @@
       "tid": 4,
       "originalTid": 4,
       "round": 2,
-      "pick": 0,
+      "pick": 28,
       "season": 2019,
       "dpid": 9
     },
@@ -8586,7 +8705,7 @@
       "tid": 5,
       "originalTid": 5,
       "round": 1,
-      "pick": 0,
+      "pick": 26,
       "season": 2019,
       "dpid": 10
     },
@@ -8594,7 +8713,7 @@
       "tid": 5,
       "originalTid": 5,
       "round": 2,
-      "pick": 0,
+      "pick": 26,
       "season": 2019,
       "dpid": 11
     },
@@ -8602,7 +8721,7 @@
       "tid": 6,
       "originalTid": 6,
       "round": 1,
-      "pick": 0,
+      "pick": 1,
       "season": 2019,
       "dpid": 12
     },
@@ -8610,7 +8729,7 @@
       "tid": 6,
       "originalTid": 6,
       "round": 2,
-      "pick": 0,
+      "pick": 5,
       "season": 2019,
       "dpid": 13
     },
@@ -8618,7 +8737,7 @@
       "tid": 7,
       "originalTid": 7,
       "round": 1,
-      "pick": 0,
+      "pick": 7,
       "season": 2019,
       "dpid": 14
     },
@@ -8626,7 +8745,7 @@
       "tid": 7,
       "originalTid": 7,
       "round": 2,
-      "pick": 0,
+      "pick": 3,
       "season": 2019,
       "dpid": 15
     },
@@ -8634,7 +8753,7 @@
       "tid": 8,
       "originalTid": 8,
       "round": 1,
-      "pick": 0,
+      "pick": 11,
       "season": 2019,
       "dpid": 16
     },
@@ -8642,7 +8761,7 @@
       "tid": 2,
       "originalTid": 8,
       "round": 2,
-      "pick": 0,
+      "pick": 10,
       "season": 2019,
       "dpid": 17
     },
@@ -8650,7 +8769,7 @@
       "tid": 9,
       "originalTid": 9,
       "round": 1,
-      "pick": 0,
+      "pick": 21,
       "season": 2019,
       "dpid": 18
     },
@@ -8658,7 +8777,7 @@
       "tid": 9,
       "originalTid": 9,
       "round": 2,
-      "pick": 0,
+      "pick": 21,
       "season": 2019,
       "dpid": 19
     },
@@ -8666,7 +8785,7 @@
       "tid": 10,
       "originalTid": 10,
       "round": 1,
-      "pick": 0,
+      "pick": 17,
       "season": 2019,
       "dpid": 20
     },
@@ -8674,7 +8793,7 @@
       "tid": 10,
       "originalTid": 10,
       "round": 2,
-      "pick": 0,
+      "pick": 17,
       "season": 2019,
       "dpid": 21
     },
@@ -8682,7 +8801,7 @@
       "tid": 11,
       "originalTid": 11,
       "round": 1,
-      "pick": 0,
+      "pick": 12,
       "season": 2019,
       "dpid": 22
     },
@@ -8690,7 +8809,7 @@
       "tid": 11,
       "originalTid": 11,
       "round": 2,
-      "pick": 0,
+      "pick": 13,
       "season": 2019,
       "dpid": 23
     },
@@ -8698,7 +8817,7 @@
       "tid": 12,
       "originalTid": 12,
       "round": 1,
-      "pick": 0,
+      "pick": 23,
       "season": 2019,
       "dpid": 24
     },
@@ -8706,7 +8825,7 @@
       "tid": 12,
       "originalTid": 12,
       "round": 2,
-      "pick": 0,
+      "pick": 24,
       "season": 2019,
       "dpid": 25
     },
@@ -8714,7 +8833,7 @@
       "tid": 13,
       "originalTid": 13,
       "round": 1,
-      "pick": 0,
+      "pick": 14,
       "season": 2019,
       "dpid": 26
     },
@@ -8722,7 +8841,7 @@
       "tid": 13,
       "originalTid": 13,
       "round": 2,
-      "pick": 0,
+      "pick": 15,
       "season": 2019,
       "dpid": 27
     },
@@ -8730,7 +8849,7 @@
       "tid": 14,
       "originalTid": 14,
       "round": 1,
-      "pick": 0,
+      "pick": 29,
       "season": 2019,
       "dpid": 28
     },
@@ -8738,7 +8857,7 @@
       "tid": 14,
       "originalTid": 14,
       "round": 2,
-      "pick": 0,
+      "pick": 29,
       "season": 2019,
       "dpid": 29
     },
@@ -8746,7 +8865,7 @@
       "tid": 15,
       "originalTid": 15,
       "round": 1,
-      "pick": 0,
+      "pick": 18,
       "season": 2019,
       "dpid": 30
     },
@@ -8754,7 +8873,7 @@
       "tid": 15,
       "originalTid": 15,
       "round": 2,
-      "pick": 0,
+      "pick": 18,
       "season": 2019,
       "dpid": 31
     },
@@ -8762,7 +8881,7 @@
       "tid": 16,
       "originalTid": 16,
       "round": 1,
-      "pick": 0,
+      "pick": 2,
       "season": 2019,
       "dpid": 32
     },
@@ -8770,7 +8889,7 @@
       "tid": 16,
       "originalTid": 16,
       "round": 2,
-      "pick": 0,
+      "pick": 11,
       "season": 2019,
       "dpid": 33
     },
@@ -8778,7 +8897,7 @@
       "tid": 13,
       "originalTid": 17,
       "round": 1,
-      "pick": 0,
+      "pick": 30,
       "season": 2019,
       "dpid": 34
     },
@@ -8786,7 +8905,7 @@
       "tid": 17,
       "originalTid": 17,
       "round": 2,
-      "pick": 0,
+      "pick": 30,
       "season": 2019,
       "dpid": 35
     },
@@ -8794,7 +8913,7 @@
       "tid": 18,
       "originalTid": 18,
       "round": 1,
-      "pick": 0,
+      "pick": 13,
       "season": 2019,
       "dpid": 36
     },
@@ -8802,7 +8921,7 @@
       "tid": 18,
       "originalTid": 18,
       "round": 2,
-      "pick": 0,
+      "pick": 12,
       "season": 2019,
       "dpid": 37
     },
@@ -8810,7 +8929,7 @@
       "tid": 19,
       "originalTid": 19,
       "round": 1,
-      "pick": 0,
+      "pick": 20,
       "season": 2019,
       "dpid": 38
     },
@@ -8818,7 +8937,7 @@
       "tid": 19,
       "originalTid": 19,
       "round": 2,
-      "pick": 0,
+      "pick": 22,
       "season": 2019,
       "dpid": 39
     },
@@ -8826,7 +8945,7 @@
       "tid": 20,
       "originalTid": 20,
       "round": 1,
-      "pick": 0,
+      "pick": 8,
       "season": 2019,
       "dpid": 40
     },
@@ -8834,7 +8953,7 @@
       "tid": 20,
       "originalTid": 20,
       "round": 2,
-      "pick": 0,
+      "pick": 6,
       "season": 2019,
       "dpid": 41
     },
@@ -8842,7 +8961,7 @@
       "tid": 21,
       "originalTid": 21,
       "round": 1,
-      "pick": 0,
+      "pick": 15,
       "season": 2019,
       "dpid": 42
     },
@@ -8850,7 +8969,7 @@
       "tid": 21,
       "originalTid": 21,
       "round": 2,
-      "pick": 0,
+      "pick": 14,
       "season": 2019,
       "dpid": 43
     },
@@ -8858,7 +8977,7 @@
       "tid": 22,
       "originalTid": 22,
       "round": 1,
-      "pick": 0,
+      "pick": 5,
       "season": 2019,
       "dpid": 44
     },
@@ -8866,7 +8985,7 @@
       "tid": 22,
       "originalTid": 22,
       "round": 2,
-      "pick": 0,
+      "pick": 1,
       "season": 2019,
       "dpid": 45
     },
@@ -8874,7 +8993,7 @@
       "tid": 23,
       "originalTid": 23,
       "round": 1,
-      "pick": 0,
+      "pick": 16,
       "season": 2019,
       "dpid": 46
     },
@@ -8882,7 +9001,7 @@
       "tid": 23,
       "originalTid": 23,
       "round": 2,
-      "pick": 0,
+      "pick": 16,
       "season": 2019,
       "dpid": 47
     },
@@ -8890,7 +9009,7 @@
       "tid": 24,
       "originalTid": 24,
       "round": 1,
-      "pick": 0,
+      "pick": 3,
       "season": 2019,
       "dpid": 48
     },
@@ -8898,7 +9017,7 @@
       "tid": 24,
       "originalTid": 24,
       "round": 2,
-      "pick": 0,
+      "pick": 4,
       "season": 2019,
       "dpid": 49
     },
@@ -8906,7 +9025,7 @@
       "tid": 25,
       "originalTid": 25,
       "round": 1,
-      "pick": 0,
+      "pick": 19,
       "season": 2019,
       "dpid": 50
     },
@@ -8914,7 +9033,7 @@
       "tid": 25,
       "originalTid": 25,
       "round": 2,
-      "pick": 0,
+      "pick": 19,
       "season": 2019,
       "dpid": 51
     },
@@ -8922,7 +9041,7 @@
       "tid": 26,
       "originalTid": 26,
       "round": 1,
-      "pick": 0,
+      "pick": 10,
       "season": 2019,
       "dpid": 52
     },
@@ -8930,7 +9049,7 @@
       "tid": 26,
       "originalTid": 26,
       "round": 2,
-      "pick": 0,
+      "pick": 9,
       "season": 2019,
       "dpid": 53
     },
@@ -8938,7 +9057,7 @@
       "tid": 27,
       "originalTid": 27,
       "round": 1,
-      "pick": 0,
+      "pick": 24,
       "season": 2019,
       "dpid": 54
     },
@@ -8946,7 +9065,7 @@
       "tid": 27,
       "originalTid": 27,
       "round": 2,
-      "pick": 0,
+      "pick": 23,
       "season": 2019,
       "dpid": 55
     },
@@ -8954,7 +9073,7 @@
       "tid": 28,
       "originalTid": 28,
       "round": 1,
-      "pick": 0,
+      "pick": 22,
       "season": 2019,
       "dpid": 56
     },
@@ -8962,7 +9081,7 @@
       "tid": 28,
       "originalTid": 28,
       "round": 2,
-      "pick": 0,
+      "pick": 20,
       "season": 2019,
       "dpid": 57
     },
@@ -8970,7 +9089,7 @@
       "tid": 29,
       "originalTid": 29,
       "round": 1,
-      "pick": 0,
+      "pick": 4,
       "season": 2019,
       "dpid": 58
     },
@@ -8978,7 +9097,7 @@
       "tid": 29,
       "originalTid": 29,
       "round": 2,
-      "pick": 0,
+      "pick": 8,
       "season": 2019,
       "dpid": 59
     },
@@ -181135,6 +181254,286 @@
       ],
       "season": 2019,
       "eid": 1035
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/SD/2019\">Swamp Dragons</a> have a 14.00% chance of getting the top overall pick of the 2019 draft.",
+      "pids": [],
+      "tids": [
+        22
+      ],
+      "season": 2019,
+      "eid": 1036
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/CHI/2019\">Whirlwinds</a> have a 14.00% chance of getting the top overall pick of the 2019 draft.",
+      "pids": [],
+      "tids": [
+        3
+      ],
+      "season": 2019,
+      "eid": 1037
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/DEN/2019\">High</a> have a 13.30% chance of getting the top overall pick of the 2019 draft.",
+      "pids": [],
+      "tids": [
+        7
+      ],
+      "season": 2019,
+      "eid": 1038
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/SEA/2019\">Symphony</a> have a 13.20% chance of getting the top overall pick of the 2019 draft.",
+      "pids": [],
+      "tids": [
+        24
+      ],
+      "season": 2019,
+      "eid": 1039
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/DAL/2019\">Snipers</a> have a 10.50% chance of getting the top overall pick of the 2019 draft.",
+      "pids": [],
+      "tids": [
+        6
+      ],
+      "season": 2019,
+      "eid": 1040
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/POR/2019\">Roses</a> have a 9.00% chance of getting the top overall pick of the 2019 draft.",
+      "pids": [],
+      "tids": [
+        20
+      ],
+      "season": 2019,
+      "eid": 1041
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/BOS/2019\">Massacre</a> have a 6.80% chance of getting the top overall pick of the 2019 draft.",
+      "pids": [],
+      "tids": [
+        2
+      ],
+      "season": 2019,
+      "eid": 1042
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/WAS/2019\">Monuments</a> have a 6.70% chance of getting the top overall pick of the 2019 draft.",
+      "pids": [],
+      "tids": [
+        29
+      ],
+      "season": 2019,
+      "eid": 1043
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/TPA/2019\">Turtles</a> have a 4.50% chance of getting the top overall pick of the 2019 draft.",
+      "pids": [],
+      "tids": [
+        26
+      ],
+      "season": 2019,
+      "eid": 1044
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/DET/2019\">Muscle</a> have a 2.50% chance of getting the top overall pick of the 2019 draft.",
+      "pids": [],
+      "tids": [
+        8
+      ],
+      "season": 2019,
+      "eid": 1045
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/NYC/2019\">Bankers</a> have a 2.50% chance of getting the top overall pick of the 2019 draft.",
+      "pids": [],
+      "tids": [
+        16
+      ],
+      "season": 2019,
+      "eid": 1046
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/LA/2019\">Earthquakes</a> have a 1.30% chance of getting the top overall pick of the 2019 draft.",
+      "pids": [],
+      "tids": [
+        11
+      ],
+      "season": 2019,
+      "eid": 1047
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/PHO/2019\">Bums</a> have a 1.20% chance of getting the top overall pick of the 2019 draft.",
+      "pids": [],
+      "tids": [
+        18
+      ],
+      "season": 2019,
+      "eid": 1048
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/MIA/2019\">Cyclones</a> have a 0.50% chance of getting the top overall pick of the 2019 draft.",
+      "pids": [],
+      "tids": [
+        13
+      ],
+      "season": 2019,
+      "eid": 1049
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/DAL/2019\">Snipers</a> will select 1st overall in the 2019 draft.",
+      "pids": [],
+      "tids": [
+        6
+      ],
+      "season": 2019,
+      "eid": 1050
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/NYC/2019\">Bankers</a> will select 2nd overall in the 2019 draft.",
+      "pids": [],
+      "tids": [
+        16
+      ],
+      "season": 2019,
+      "eid": 1051
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/SEA/2019\">Symphony</a> will select 3rd overall in the 2019 draft.",
+      "pids": [],
+      "tids": [
+        24
+      ],
+      "season": 2019,
+      "eid": 1052
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/WAS/2019\">Monuments</a> will select 4th overall in the 2019 draft.",
+      "pids": [],
+      "tids": [
+        29
+      ],
+      "season": 2019,
+      "eid": 1053
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/SD/2019\">Swamp Dragons</a> will select 5th overall in the 2019 draft.",
+      "pids": [],
+      "tids": [
+        22
+      ],
+      "season": 2019,
+      "eid": 1054
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/CHI/2019\">Whirlwinds</a> will select 6th overall in the 2019 draft.",
+      "pids": [],
+      "tids": [
+        3
+      ],
+      "season": 2019,
+      "eid": 1055
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/DEN/2019\">High</a> will select 7th overall in the 2019 draft.",
+      "pids": [],
+      "tids": [
+        7
+      ],
+      "season": 2019,
+      "eid": 1056
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/POR/2019\">Roses</a> will select 8th overall in the 2019 draft.",
+      "pids": [],
+      "tids": [
+        20
+      ],
+      "season": 2019,
+      "eid": 1057
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/BOS/2019\">Massacre</a> will select 9th overall in the 2019 draft.",
+      "pids": [],
+      "tids": [
+        2
+      ],
+      "season": 2019,
+      "eid": 1058
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/TPA/2019\">Turtles</a> will select 10th overall in the 2019 draft.",
+      "pids": [],
+      "tids": [
+        26
+      ],
+      "season": 2019,
+      "eid": 1059
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/DET/2019\">Muscle</a> will select 11th overall in the 2019 draft.",
+      "pids": [],
+      "tids": [
+        8
+      ],
+      "season": 2019,
+      "eid": 1060
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/LA/2019\">Earthquakes</a> will select 12th overall in the 2019 draft.",
+      "pids": [],
+      "tids": [
+        11
+      ],
+      "season": 2019,
+      "eid": 1061
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/PHO/2019\">Bums</a> will select 13th overall in the 2019 draft.",
+      "pids": [],
+      "tids": [
+        18
+      ],
+      "season": 2019,
+      "eid": 1062
+    },
+    {
+      "type": "draft",
+      "text": "The <a href=\"/l/2/roster/MIA/2019\">Cyclones</a> will select 14th overall in the 2019 draft.",
+      "pids": [],
+      "tids": [
+        13
+      ],
+      "season": 2019,
+      "eid": 1063
     }
   ]
 }
