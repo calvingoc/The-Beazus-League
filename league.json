@@ -1,10 +1,12 @@
 ﻿{
-  "version": 33,
+  "version": 34,
   "meta": {
-    "phaseText": "2019 re-sign players",
+    "phaseText": "2019 free agency",
     "name": "League 1"
   },
   "schedule": [],
+  "negotiations": [],
+  "allStars": [],
   "awards": [
     {
       "bestRecord": {
@@ -7173,163 +7175,6 @@
       ]
     }
   ],
-  "negotiations": [
-    {
-      "pid": 0,
-      "tid": 17,
-      "resigning": true
-    },
-    {
-      "pid": 1,
-      "tid": 1,
-      "resigning": true
-    },
-    {
-      "pid": 5,
-      "tid": 17,
-      "resigning": true
-    },
-    {
-      "pid": 9,
-      "tid": 14,
-      "resigning": true
-    },
-    {
-      "pid": 19,
-      "tid": 14,
-      "resigning": true
-    },
-    {
-      "pid": 28,
-      "tid": 22,
-      "resigning": true
-    },
-    {
-      "pid": 65,
-      "tid": 14,
-      "resigning": true
-    },
-    {
-      "pid": 71,
-      "tid": 14,
-      "resigning": true
-    },
-    {
-      "pid": 78,
-      "tid": 17,
-      "resigning": true
-    },
-    {
-      "pid": 149,
-      "tid": 17,
-      "resigning": true
-    },
-    {
-      "pid": 168,
-      "tid": 1,
-      "resigning": true
-    },
-    {
-      "pid": 217,
-      "tid": 1,
-      "resigning": true
-    },
-    {
-      "pid": 256,
-      "tid": 17,
-      "resigning": true
-    },
-    {
-      "pid": 271,
-      "tid": 22,
-      "resigning": true
-    },
-    {
-      "pid": 295,
-      "tid": 1,
-      "resigning": true
-    },
-    {
-      "pid": 320,
-      "tid": 14,
-      "resigning": true
-    },
-    {
-      "pid": 324,
-      "tid": 1,
-      "resigning": true
-    },
-    {
-      "pid": 341,
-      "tid": 22,
-      "resigning": true
-    },
-    {
-      "pid": 347,
-      "tid": 1,
-      "resigning": true
-    },
-    {
-      "pid": 357,
-      "tid": 1,
-      "resigning": true
-    },
-    {
-      "pid": 359,
-      "tid": 22,
-      "resigning": true
-    },
-    {
-      "pid": 369,
-      "tid": 17,
-      "resigning": true
-    },
-    {
-      "pid": 448,
-      "tid": 17,
-      "resigning": true
-    },
-    {
-      "pid": 449,
-      "tid": 17,
-      "resigning": true
-    },
-    {
-      "pid": 471,
-      "tid": 17,
-      "resigning": true
-    },
-    {
-      "pid": 515,
-      "tid": 22,
-      "resigning": true
-    },
-    {
-      "pid": 750,
-      "tid": 22,
-      "resigning": true
-    },
-    {
-      "pid": 751,
-      "tid": 17,
-      "resigning": true
-    },
-    {
-      "pid": 752,
-      "tid": 22,
-      "resigning": true
-    },
-    {
-      "pid": 753,
-      "tid": 14,
-      "resigning": true
-    },
-    {
-      "pid": 754,
-      "tid": 1,
-      "resigning": true
-    }
-  ],
   "playerFeats": [
     {
       "pid": 129,
@@ -8716,7 +8561,7 @@
     },
     {
       "key": "phase",
-      "value": 7
+      "value": 8
     },
     {
       "key": "playersRefuseToNegotiate",
@@ -8764,12 +8609,11 @@
     },
     {
       "key": "userTid",
-      "value": 17
+      "value": 14
     },
     {
       "key": "userTids",
       "value": [
-        1,
         14,
         17,
         22
@@ -10791,7 +10635,7 @@
         0,
         0.195344625891692
       ],
-      "gamesUntilTradable": 0,
+      "gamesUntilTradable": 14,
       "hgt": 75,
       "hof": false,
       "imgURL": "",
@@ -10836,6 +10680,22 @@
         {
           "season": 2019,
           "amount": 22900
+        },
+        {
+          "season": 2020,
+          "amount": 25150
+        },
+        {
+          "season": 2021,
+          "amount": 25150
+        },
+        {
+          "season": 2022,
+          "amount": 25150
+        },
+        {
+          "season": 2023,
+          "amount": 25150
         }
       ],
       "stats": [
@@ -10931,7 +10791,7 @@
       "statsTids": [
         17
       ],
-      "tid": -1,
+      "tid": 17,
       "watch": false,
       "weight": 210,
       "yearsFreeAgent": 0,
@@ -10955,7 +10815,7 @@
       },
       "college": "",
       "contract": {
-        "amount": 26400,
+        "amount": 26400.000000000004,
         "exp": 2022
       },
       "draft": {
@@ -11056,7 +10916,7 @@
         0.7842330699232902,
         0.1936191072191864
       ],
-      "gamesUntilTradable": 0,
+      "gamesUntilTradable": 14,
       "hgt": 76,
       "hof": false,
       "imgURL": "",
@@ -11104,6 +10964,18 @@
         {
           "season": 2019,
           "amount": 6000
+        },
+        {
+          "season": 2020,
+          "amount": 26400.000000000004
+        },
+        {
+          "season": 2021,
+          "amount": 26400.000000000004
+        },
+        {
+          "season": 2022,
+          "amount": 26400.000000000004
         }
       ],
       "stats": [
@@ -11199,7 +11071,7 @@
       "statsTids": [
         1
       ],
-      "tid": -1,
+      "tid": 1,
       "watch": false,
       "weight": 205,
       "yearsFreeAgent": 0,
@@ -11995,8 +11867,8 @@
       },
       "college": "",
       "contract": {
-        "amount": 18850,
-        "exp": 2023
+        "amount": 21300,
+        "exp": 2024
       },
       "draft": {
         "round": 1,
@@ -12094,7 +11966,7 @@
         0.5625743474444266,
         0
       ],
-      "gamesUntilTradable": 0,
+      "gamesUntilTradable": 14,
       "hgt": 80,
       "hof": false,
       "imgURL": "",
@@ -12140,6 +12012,26 @@
         {
           "season": 2019,
           "amount": 4500
+        },
+        {
+          "season": 2020,
+          "amount": 21300
+        },
+        {
+          "season": 2021,
+          "amount": 21300
+        },
+        {
+          "season": 2022,
+          "amount": 21300
+        },
+        {
+          "season": 2023,
+          "amount": 21300
+        },
+        {
+          "season": 2024,
+          "amount": 21300
         }
       ],
       "stats": [
@@ -12235,7 +12127,7 @@
       "statsTids": [
         17
       ],
-      "tid": -1,
+      "tid": 17,
       "watch": false,
       "weight": 235,
       "yearsFreeAgent": 0,
@@ -17369,7 +17261,7 @@
         "gamesRemaining": 0
       },
       "lastName": "Robinson",
-      "ptModifier": 0,
+      "ptModifier": 1,
       "relatives": [],
       "ratings": [
         {
@@ -28278,7 +28170,7 @@
         "gamesRemaining": 0
       },
       "lastName": "Brackman",
-      "ptModifier": 1.25,
+      "ptModifier": 1,
       "relatives": [],
       "ratings": [
         {
@@ -37160,7 +37052,7 @@
         "gamesRemaining": 0
       },
       "lastName": "Rodriguez",
-      "ptModifier": 1.25,
+      "ptModifier": 1,
       "relatives": [],
       "ratings": [
         {
@@ -48159,7 +48051,7 @@
         0.27798060892741205,
         0.8995839337647689
       ],
-      "gamesUntilTradable": 0,
+      "gamesUntilTradable": 14,
       "hgt": 79,
       "hof": false,
       "imgURL": "",
@@ -48201,6 +48093,18 @@
         {
           "season": 2019,
           "amount": 13800
+        },
+        {
+          "season": 2020,
+          "amount": 18200
+        },
+        {
+          "season": 2021,
+          "amount": 18200
+        },
+        {
+          "season": 2022,
+          "amount": 18200
         }
       ],
       "stats": [
@@ -48296,7 +48200,7 @@
       "statsTids": [
         17
       ],
-      "tid": -1,
+      "tid": 17,
       "watch": false,
       "weight": 228,
       "yearsFreeAgent": 0,
@@ -70634,7 +70538,7 @@
         "gamesRemaining": 0
       },
       "lastName": "Watkins",
-      "ptModifier": 0,
+      "ptModifier": 1,
       "relatives": [],
       "ratings": [
         {
@@ -74617,7 +74521,7 @@
         0,
         0.7736278238085847
       ],
-      "gamesUntilTradable": 0,
+      "gamesUntilTradable": 14,
       "hgt": 83,
       "hof": false,
       "imgURL": "",
@@ -74659,6 +74563,18 @@
         {
           "season": 2019,
           "amount": 3000
+        },
+        {
+          "season": 2020,
+          "amount": 5700
+        },
+        {
+          "season": 2021,
+          "amount": 5700
+        },
+        {
+          "season": 2022,
+          "amount": 5700
         }
       ],
       "stats": [
@@ -74754,7 +74670,7 @@
       "statsTids": [
         17
       ],
-      "tid": -1,
+      "tid": 17,
       "watch": false,
       "weight": 258,
       "yearsFreeAgent": 0,
@@ -89637,7 +89553,7 @@
         "gamesRemaining": 0
       },
       "lastName": "Holloway",
-      "ptModifier": 0,
+      "ptModifier": 1,
       "relatives": [],
       "ratings": [
         {
@@ -169354,7 +169270,7 @@
         0.547342885822341,
         0.6956509266836843
       ],
-      "gamesUntilTradable": 0,
+      "gamesUntilTradable": 14,
       "hgt": 84,
       "hof": false,
       "imgURL": "https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2019/05/godzilla-2000.png?ssl=1",
@@ -169398,6 +169314,14 @@
         {
           "season": 2019,
           "amount": 750
+        },
+        {
+          "season": 2020,
+          "amount": 26700
+        },
+        {
+          "season": 2021,
+          "amount": 26700
         }
       ],
       "stats": [
@@ -169493,7 +169417,7 @@
       "statsTids": [
         17
       ],
-      "tid": -1,
+      "tid": 17,
       "watch": false,
       "weight": 200,
       "yearsFreeAgent": 0,
@@ -170102,7 +170026,7 @@
         1.0186988074185863,
         1.1215725511997743
       ],
-      "gamesUntilTradable": 0,
+      "gamesUntilTradable": 14,
       "hgt": 75,
       "hof": false,
       "imgURL": "",
@@ -170146,6 +170070,14 @@
         {
           "season": 2019,
           "amount": 750
+        },
+        {
+          "season": 2020,
+          "amount": 30000
+        },
+        {
+          "season": 2021,
+          "amount": 30000
         }
       ],
       "stats": [
@@ -170241,7 +170173,7 @@
       "statsTids": [
         1
       ],
-      "tid": -1,
+      "tid": 1,
       "watch": false,
       "weight": 207,
       "yearsFreeAgent": 0,
@@ -193505,6 +193437,90 @@
       ],
       "season": 2019,
       "eid": 1177
+    },
+    {
+      "type": "reSigned",
+      "text": "The <a href=\"/l/2/roster/K&B/2019\">Cheesesteaks</a> re-signed <a href=\"/l/2/player/256\">Wes McClain</a> for $5.70M/year through 2022.",
+      "pids": [
+        256
+      ],
+      "tids": [
+        17
+      ],
+      "season": 2019,
+      "eid": 1178
+    },
+    {
+      "type": "reSigned",
+      "text": "The <a href=\"/l/2/roster/K&B/2019\">Cheesesteaks</a> re-signed <a href=\"/l/2/player/149\">C.J. Frazier</a> for $18.20M/year through 2022.",
+      "pids": [
+        149
+      ],
+      "tids": [
+        17
+      ],
+      "season": 2019,
+      "eid": 1179
+    },
+    {
+      "type": "reSigned",
+      "text": "The <a href=\"/l/2/roster/K&B/2019\">Cheesesteaks</a> re-signed <a href=\"/l/2/player/5\">Mehdi Dinal</a> for $21.30M/year through 2024.",
+      "pids": [
+        5
+      ],
+      "tids": [
+        17
+      ],
+      "season": 2019,
+      "eid": 1180
+    },
+    {
+      "type": "reSigned",
+      "text": "The <a href=\"/l/2/roster/K&B/2019\">Cheesesteaks</a> re-signed <a href=\"/l/2/player/751\">Megathon Maker</a> for $26.70M/year through 2021.",
+      "pids": [
+        751
+      ],
+      "tids": [
+        17
+      ],
+      "season": 2019,
+      "eid": 1181
+    },
+    {
+      "type": "reSigned",
+      "text": "The <a href=\"/l/2/roster/K&B/2019\">Cheesesteaks</a> re-signed <a href=\"/l/2/player/0\">Ramel \"BigChumpy\" White</a> for $25.15M/year through 2023.",
+      "pids": [
+        0
+      ],
+      "tids": [
+        17
+      ],
+      "season": 2019,
+      "eid": 1182
+    },
+    {
+      "type": "reSigned",
+      "text": "The <a href=\"/l/2/roster/BAL/2019\">Crabs</a> re-signed <a href=\"/l/2/player/1\">Julian Hence</a> for $26.40M/year through 2022.",
+      "pids": [
+        1
+      ],
+      "tids": [
+        1
+      ],
+      "season": 2019,
+      "eid": 1183
+    },
+    {
+      "type": "reSigned",
+      "text": "The <a href=\"/l/2/roster/BAL/2019\">Crabs</a> re-signed <a href=\"/l/2/player/754\">Poopy McButt-Stink</a> for $30.00M/year through 2021.",
+      "pids": [
+        754
+      ],
+      "tids": [
+        1
+      ],
+      "season": 2019,
+      "eid": 1184
     }
   ]
 }
