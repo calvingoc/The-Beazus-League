@@ -69,7 +69,7 @@ Unless requested by a GM each step of the off season will be emulated every work
 
 ### Exceptions: </br>
 If a GM needs more graunlar time steps an issue must be opened before 10:55am with the requested interval for it to take effect. </br> 
-*Daily steps will be honored but not if strung togeather excessively*
+*Daily steps will be honored but not if strung together excessively*
 
 ## Roster Moves: </br>
 
@@ -82,6 +82,16 @@ To complete a trade with an AI team all other GMs must ok the trade.</br>
 
 
 To sign a FA a GM must open an issue with the name of the FA and the contract details, how much for how long. If another GM would like to sign that FA they can put in a bid on the player in that same issue. The GM who has offered the most money (years X salary) by the 10:55am deadline will get to sign the FA. If the same amount of money is offered by multiple teams the team with the worse record will get the player. 
+
+
+## Finances: </br>
+Starting in the 2023 season you must make a profit or make the playoffs. Making the playoffs gives a GM some wiggle room with ownership. *Potential change if needed: GMs can only lose money 3 years in a row regardless of playoff success*
+
+### Math: </br>
+If a team fails to make the playoffs and does not turn a profit they will face the penalty. If a team makes the play offs they get a 2M buffer for each round they make it to up. Winning the title gives the GM an extra 2M in wiggle room. Ex. The Cheesesteaks lost 5M over the season but make it to the conference finals so get 6M buffer and don't face penalty.
+
+### Penalty: </br>
+If a team is in penalty they must be under the salary cap by the start of the next season. If they fail to do so the remaining GMs will trade off the team's players to computer teams until the offending team is under the cap. The players will be traded in order of their OVR rating highest to lowest. The trades will happen by putting the offending player on the trade block and the remaining GMs will pick between the offers that return the lowest amount of money (for the following year, not for life of contract) until the team is under the cap.
 
 
 
