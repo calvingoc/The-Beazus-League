@@ -7,7 +7,7 @@ Emulated here:[Basketball](https://play.basketball-gm.com/)</br>
 Pick your team
 
 Atlanta Gold Club<br/>
-<b>Baltimore Crabs - Mike</b><br/>
+<b>Baltimore Crabs - <s>Mike</s></b><br/>
 Boston Massacre<br/>
 Chicago Whirlwinds<br/>
 Cincinnati Riots<br/>
