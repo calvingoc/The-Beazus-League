@@ -85,10 +85,12 @@ To sign a FA a GM must open an issue with the name of the FA and the contract de
 
 
 ## Finances: </br>
-Starting in the 2023 season you must make a profit or make the playoffs. Making the playoffs gives a GM some wiggle room with ownership. *Potential change if needed: GMs can only lose money 3 years in a row regardless of playoff success*
+Starting in the 2023 season you must have positive cash at the end of the season. Cash will be reset for player managed teams at the start of the year. Making the playoffs gives a GM some wiggle room with ownership. 
 
 ### Math: </br>
-If a team fails to make the playoffs and does not turn a profit they will face the penalty. If a team makes the play offs they get a 2M buffer for each round they make it to up. Winning the title gives the GM an extra 2M in wiggle room. Ex. The Cheesesteaks lost 5M over the season but make it to the conference finals so get 6M buffer and don't face penalty.
+If a team fails to make the playoffs and does not have cash on hand they will face the penalty. If a team makes the play offs they get a 2M buffer for each round they make it to up. Winning the title gives the GM an extra 2M in wiggle room. Ex. The Cheesesteaks have negative 5M at the end of the season but make it to the conference finals so get 6M buffer and don't face penalty.
+
+Teams must make a profit once every 3 years regardless of if they have cash on hand at the end of the season, otherwise the penalty applies.
 
 ### Penalty: </br>
 If a team is in penalty they must be under the salary cap by the start of the next season. If they fail to do so the remaining GMs will trade off the team's players to computer teams until the offending team is under the cap. The players will be traded in order of their OVR rating highest to lowest. The trades will happen by putting the offending player on the trade block and the remaining GMs will pick between the offers that return the lowest amount of money (for the following year, not for life of contract) until the team is under the cap.
