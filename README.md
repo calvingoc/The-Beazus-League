@@ -2,7 +2,7 @@
 The home of the Beazus League </br>
 Emulated here:[Basketball](https://play.basketball-gm.com/)</br>
 
-# 2019 League Champions: K&B Cheesesteaks (Boo)
+# 2021 League Champions: K&B Cheesesteaks (Boo)
 
 Pick your team
 
