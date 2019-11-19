@@ -77,7 +77,7 @@ All Roster moves must be submitted by 10:55am in order to take effect.</br>
 
 To submit a roster move open an issue.</br>
 
-To request a trade open an issue, to agree on a trade both GMs must post an agreement stating what they are giving up and receiving.
+To request a trade open an issue, to agree on a trade both GMs must post an agreement stating what they are giving up and receiving as well as a justification of why the other team would accept that trade.
 To complete a trade with an AI team all other GMs must ok the trade.</br>
 
 
