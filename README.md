@@ -2,7 +2,7 @@
 The home of the Beazus League </br>
 Emulated here:[Basketball](https://play.basketball-gm.com/)</br>
 
-# 2021 League Champions: K&B Cheesesteaks (Boo)
+# 2022 League Champions: Cleveland Curses
 
 Pick your team
 
@@ -85,7 +85,7 @@ To sign a FA a GM must open an issue with the name of the FA and the contract de
 
 
 ## Finances: </br>
-Starting in the 2023 season you must have positive cash at the end of the season. Cash will be reset for player managed teams at the start of the year. Making the playoffs gives a GM some wiggle room with ownership. 
+Starting in the 2023 season you must have positive cash at the end of the season. Cash will be reset for player managed teams at the start of the 2023 year. Making the playoffs gives a GM some wiggle room with ownership. 
 
 ### Math: </br>
 If a team fails to make the playoffs and does not have cash on hand they will face the penalty. If a team makes the play offs they get a 2M buffer for each round they make it to up. Winning the title gives the GM an extra 2M in wiggle room. Ex. The Cheesesteaks have negative 5M at the end of the season but make it to the conference finals so get 6M buffer and don't face penalty.
