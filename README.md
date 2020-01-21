@@ -2,7 +2,7 @@
 The home of the Beazus League </br>
 Emulated here:[Basketball](https://play.basketball-gm.com/)</br>
 
-# 2022 League Champions: Cleveland Curses
+# 20223 League Champions: Cleveland Curses
 
 Pick your team
 
