@@ -2,7 +2,7 @@
 The home of the Beazus League </br>
 Emulated here:[Basketball](https://play.basketball-gm.com/)</br>
 
-# 20223 League Champions: Cleveland Curses
+# 2024 League Champions: Milwaukee Blizzard
 
 Pick your team
 
